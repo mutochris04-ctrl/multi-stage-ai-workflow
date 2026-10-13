@@ -15,10 +15,10 @@ to create test data and a program that classifies every child automatically.
 ## Workflow diagram
 ```mermaid
 flowchart LR
-    A[Stage 1: Chat AI<br>ChatGPT] -->|generates| B[children.csv<br>test data]
-    B -->|input for| C[Stage 2: IDE AI<br>Copilot in VS Code]
-    C -->|writes| D[classify.py]
-    D -->|reads children.csv<br>and creates| E[results.csv<br>+ totals in terminal]
+    A["Stage 1: Chat AI (ChatGPT)"] -->|generates| B["children.csv (test data)"]
+    B -->|input for| C["Stage 2: IDE AI (Copilot in VS Code)"]
+    C -->|writes| D["classify.py"]
+    D -->|creates| E["results.csv and totals"]
 ```
 
 ## Step-by-step
