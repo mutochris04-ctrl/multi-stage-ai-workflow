@@ -1,0 +1,3 @@
+# Python virtual environment - do not upload
+.venv/
+__pycache__/

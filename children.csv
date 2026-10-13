@@ -1,0 +1,16 @@
+child_id,name,sex,age_months,muac_mm,oedema
+1,Aline,F,12,110,no
+2,Eric,M,24,118,no
+3,Diane,F,36,125,yes
+4,Jean,M,18,115,no
+5,Grace,F,42,130,no
+6,Patrick,M,9,105,yes
+7,Claudine,F,30,122,no
+8,Samuel,M,48,135,no
+9,Marie,F,15,112,no
+10,David,M,55,140,no
+11,Esther,F,27,120,yes
+12,Emmanuel,M,33,108,no
+13,Sarah,F,6,127,no
+14,Kevin,M,21,114,no
+15,Olivia,F,59,132,no
