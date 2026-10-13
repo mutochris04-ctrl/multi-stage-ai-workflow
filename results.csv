@@ -1,0 +1,16 @@
+child_id,name,muac_mm,oedema,status
+1,Aline,110,no,Severe (SAM)
+2,Eric,118,no,Moderate (MAM)
+3,Diane,125,yes,Severe (SAM)
+4,Jean,115,no,Moderate (MAM)
+5,Grace,130,no,Normal
+6,Patrick,105,yes,Severe (SAM)
+7,Claudine,122,no,Moderate (MAM)
+8,Samuel,135,no,Normal
+9,Marie,112,no,Severe (SAM)
+10,David,140,no,Normal
+11,Esther,120,yes,Severe (SAM)
+12,Emmanuel,108,no,Severe (SAM)
+13,Sarah,127,no,Normal
+14,Kevin,114,no,Severe (SAM)
+15,Olivia,132,no,Normal
